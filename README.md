@@ -74,4 +74,4 @@ Submissions in this challenge will be in the form of Python data analysis using 
 ##### Remember to own tour own learning!
 
 
-This will be a good chance to learn how to make reports using JUpyter notebook and make visualizations. Looking forward to what you will come-up with
+This will be a good chance to learn how to make reports using Jupyter notebook and make visualizations. Looking forward to what you will come-up with
