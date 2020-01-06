@@ -68,8 +68,10 @@ The aim will be to explore the data using Python to help Kiva understand their b
 
 Submissions in this challenge will be in the form of Python data analysis using Jupyter Notebooks to the repository. To make this as interactive as possible, everyone will share links to their notebooks that are well documented on Slack as soon as they're done with their analysis. You can find the data on the competitions page.
 
+---
+
 
 Remember to own tour own learning!
 
 
-This will be a good chance to learn how to make reports using JUpyter notebook and make visualizations. Looking forward to what you guys will come-up with
+This will be a good chance to learn how to make reports using JUpyter notebook and make visualizations. Looking forward to what you will come-up with
