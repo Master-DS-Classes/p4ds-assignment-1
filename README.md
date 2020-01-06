@@ -59,7 +59,7 @@ For this lesson we will move through chapter one to three of the Python for data
 - Further Resources
 
 
-#### Course challenge Data Manipulation with Python Challenge
+## Course challenge Data Manipulation with Python Challenge
 We will be looking at a competition on Kaggle: Data Science for Good: Kiva Crowdfunding (Link on the datasets channel on the community slack)
 
 In this challenge, Kiva an online crowdfunding platform is inviting the community to help then build more localized models to estimate the poverty levels of residents in the regions where Kiva has active loans. 
