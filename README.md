@@ -3,7 +3,7 @@ The master python for data science is an initiative of the Nairobi Women in Mach
 
 The course is virtual and completely self paced with a slack community to help you collaborate with others who are interested in the course as well.
 
-### At the end of this lesson you will be required a notebook with the data challenge as per below
+### At the end of this assignment you will be required to upload a notebook with the data challenge (as per below) before you proceed to the next assignment.
 
 ---
 
@@ -59,10 +59,7 @@ For this lesson we will move through chapter one to three of the Python for data
 - Further Resources
 
 
----
-
-
-#### Data Manipulation with Python Challenge
+#### Course challenge Data Manipulation with Python Challenge
 We will be looking at a competition on Kaggle: Data Science for Good: Kiva Crowdfunding (Link on the datasets channel on the community slack)
 
 In this challenge, Kiva an online crowdfunding platform is inviting the community to help then build more localized models to estimate the poverty levels of residents in the regions where Kiva has active loans. 
