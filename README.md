@@ -5,14 +5,17 @@ The course is virtual and completely self paced with a slack community to help y
 
 ### At the end of this lesson you will be required a notebook with the data challenge as per below
 
-
+---
 
 ## Chapter 1 - 3
 
 For this lesson we will move through chapter one to three of the Python for data science handbook by Jake VanderPlas
 (link below) and learn:
 
-### Chapter 1
+
+
+### Chapter 1 : [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
+
 - IPython: Beyond Normal Python
 - Help and Documentation in IPython
 - Keyboard Shortcuts in the IPython Shell
@@ -23,10 +26,9 @@ For this lesson we will move through chapter one to three of the Python for data
 - Profiling and Timing Code
 - More IPython Resources
 
-#### [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 
+### Chapter 2 : [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
-### Chapter 2
 - Introduction to NumPy
 - Understanding Data Types in Python
 - The Basics of NumPy Arrays
@@ -38,10 +40,10 @@ For this lesson we will move through chapter one to three of the Python for data
 - Sorting Arrays
 - Structured Data: NumPy's Structured Arrays
 
-#### [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
 
-### Chapter 3
+### Chapter 3 : [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+
 - Introducing Pandas Objects
 - Data Indexing and Selection
 - Operating on Data in Pandas
@@ -56,7 +58,9 @@ For this lesson we will move through chapter one to three of the Python for data
 - High-Performance Pandas: eval() and query()
 - Further Resources
 
-#### [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+
+---
+
 
 #### Data Manipulation with Python Challenge
 We will be looking at a competition on Kaggle: Data Science for Good: Kiva Crowdfunding (Link on the datasets channel on the community slack)
