@@ -3,7 +3,7 @@ The master python for data science is an initiative of the Nairobi Women in Mach
 
 The course is virtual and completely self paced with a slack community to help you collaborate with others who are interested in the course as well.
 
-## At the end of this lesson you will be required a notebook with the data challenge as per below
+### At the end of this lesson you will be required a notebook with the data challenge as per below
 
 
 
@@ -23,7 +23,7 @@ For this lesson we will move through chapter one to three of the Python for data
 - Profiling and Timing Code
 - More IPython Resources
 
-### [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
+#### [IPython: Beyond Normal Python](https://jakevdp.github.io/PythonDataScienceHandbook/01.00-ipython-beyond-normal-python.html)
 
 
 ### Chapter 2
@@ -38,7 +38,7 @@ For this lesson we will move through chapter one to three of the Python for data
 - Sorting Arrays
 - Structured Data: NumPy's Structured Arrays
 
-### [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+#### [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
 
 ### Chapter 3
@@ -56,9 +56,9 @@ For this lesson we will move through chapter one to three of the Python for data
 - High-Performance Pandas: eval() and query()
 - Further Resources
 
-### [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
+#### [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 
-### Data Manipulation with Python Challenge
+#### Data Manipulation with Python Challenge
 We will be looking at a competition on Kaggle: Data Science for Good: Kiva Crowdfunding (Link on the datasets channel on the community slack)
 
 In this challenge, Kiva an online crowdfunding platform is inviting the community to help then build more localized models to estimate the poverty levels of residents in the regions where Kiva has active loans. 
